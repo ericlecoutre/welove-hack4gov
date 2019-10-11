@@ -16,12 +16,14 @@ o	[listing of ideas + POC shiny/dashboard application]   <- this is the target p
 
 * technology?
 * relation between price/sqmeter, superficies (cadastre provides floor superficies) and fiscal income (3 covariates to display)
-
+* agregate individual data at some level; for instance municipality level
+  + derive municpality KPIs / metrics
 
 # Shiny app ideas
 
 * Search for an address
 * Give much detail information for this address, including data enrichment (cf. below)
+
 
 
 
